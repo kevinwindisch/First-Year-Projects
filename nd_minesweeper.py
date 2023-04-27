@@ -1,4 +1,7 @@
-
+"""
+implementation of the game 'Mines' in N dimensions
+utilizes recursion to design algorithms
+"""
 
 import typing
 import doctest
