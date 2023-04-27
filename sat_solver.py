@@ -1,4 +1,8 @@
-
+"""
+Satisfiability solver that can be used to solve logic puzzles
+able to solve sudoku boards of any dimension
+utilizes backtracking and boolean logic to solve
+"""
 import sys
 import typing
 import doctest
