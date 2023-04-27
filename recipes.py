@@ -1,12 +1,9 @@
-"""
-6.1010 Spring '23 Lab 4: Recipes
-"""
+
 
 import pickle
 import sys
 
 sys.setrecursionlimit(20_000)
-# NO ADDITIONAL IMPORTS!
 
 
 def make_recipe_book(recipes):
