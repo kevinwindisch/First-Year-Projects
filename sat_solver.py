@@ -1,15 +1,9 @@
-"""
-6.1010 Spring '23 Lab 8: SAT Solver
-"""
-
-#!/usr/bin/env python3
 
 import sys
 import typing
 import doctest
 
 sys.setrecursionlimit(10_000)
-# NO ADDITIONAL IMPORTS
 
 # HELPER FUNCTIONS
 
