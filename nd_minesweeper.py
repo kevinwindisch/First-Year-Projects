@@ -1,13 +1,8 @@
-"""
-6.1010 Spring '23 Lab 7: Mines
-"""
 
-#!/usr/bin/env python3
 
 import typing
 import doctest
 
-# NO ADDITIONAL IMPORTS ALLOWED!
 
 
 def dump(game):
