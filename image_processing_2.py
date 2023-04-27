@@ -1,4 +1,8 @@
 
+"""
+manipulating RGB images to produce different effects
+"""
+
 import math
 from PIL import Image
 
