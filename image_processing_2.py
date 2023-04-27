@@ -1,11 +1,4 @@
-"""
-6.101 Spring '23 Lab 2: Image Processing 2
-"""
 
-#!/usr/bin/env python3
-
-# NO ADDITIONAL IMPORTS!
-# (except in the last part of the lab; see the lab writeup for details)
 import math
 from PIL import Image
 
