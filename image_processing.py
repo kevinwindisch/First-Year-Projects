@@ -1,15 +1,9 @@
-"""
-6.1010 Spring '23 Lab 1: Image Processing
-"""
 
-#!/usr/bin/env python3
 
 import math
 
 from PIL import Image
 
-
-# NO ADDITIONAL IMPORTS ALLOWED!
 def get_pixel(image, row, col, boundary_behavior):
     """
     returns the pixel value of a pixel at a given row and column
