@@ -1,4 +1,8 @@
-
+"""
+- tool that can keep track of different recipes that are comprised of 
+    different ingredients
+- utilizes recursion to design algorithms
+"""
 
 import pickle
 import sys
