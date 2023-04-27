@@ -1,12 +1,6 @@
-"""
-6.1010 Spring '23 Lab 3: Bacon Number
-"""
 
-#!/usr/bin/env python3
 
 import pickle
-
-# NO ADDITIONAL IMPORTS ALLOWED!
 
 
 def transform_data(raw_data):
