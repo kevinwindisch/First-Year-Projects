@@ -1,4 +1,7 @@
-
+"""
+finding the Kevin Bacon number of different actors in a database
+utilizes a flood fill searching technique to find connecting paths between actors
+"""
 
 import pickle
 
