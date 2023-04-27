@@ -1,4 +1,7 @@
-
+"""
+creates working autocomplete and autocorrect functions
+utilizes generators and classes
+"""
 
 
 import doctest
