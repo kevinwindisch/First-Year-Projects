@@ -1,11 +1,7 @@
-"""
-6.1010 Spring '23 Lab 0: Audio Processing
-"""
 
 import wave
 import struct
 
-# No additional imports allowed!
 
 
 def backwards(sound):
