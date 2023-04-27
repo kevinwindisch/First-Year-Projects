@@ -1,3 +1,6 @@
+"""
+manipulates audio files to produce different unique effects
+"""
 
 import wave
 import struct
