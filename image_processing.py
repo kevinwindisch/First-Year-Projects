@@ -1,4 +1,6 @@
-
+"""
+manipulating greyscale images to produce different effects.
+"""
 
 import math
 
