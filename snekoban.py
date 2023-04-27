@@ -1,4 +1,6 @@
-
+"""
+implementation of the game 'Sokoban'
+"""
 
 import json
 import typing
